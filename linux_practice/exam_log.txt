@@ -1,0 +1,62 @@
+    1  ls
+    2  cd linux_practice
+    3  cd notes.txt
+    4  ls
+    5  echo "Hello, Linux!" > notes.txt
+    6  echo "This is a practical exam" >> notes.txt
+    7  head -n 1 notes.txt
+    8  tail -n 1 notes.txt
+    9  mkdir subdir
+   10  mv notes.txt subdir/
+   11  mc subdir prctice_subdir
+   12  mv subdir prctice_subdir
+   13  cp practice_subdir/notes.txt linux_practice/
+   14  ls
+   15  cp practice_subdir/notes.txt linux_practice/
+   16  cd subdir
+   17  mkdir subdir
+   18  ld
+   19  ls
+   20  cd subdir
+   21  cd ..
+   22  ls
+   23  mv subdir prctice_subdir
+   24  ld
+   25  ls
+   26  cd practice_subdir
+   27  cd prctice_subdir
+   28  ls
+   29  cp notes.txt linux_practice
+   30  date
+   31  uptime
+   32  du -sh ~/
+   33  ssh -v
+   34  php -v
+   35  mysql --version
+   36  cd ..
+   37  pkg update
+   38  pkg upgrade
+   39  mysl --version
+   40  mysql --vetsion
+   41  ls
+   42  cs 234094847_AyaoanJimuel
+   43  cd 234094847_AyaoanJimuel
+   44  ls
+   45  cd linux_practice
+   46  ls
+   47  cd prctice_subdir
+   48  apache2 -v
+   49  python --version
+   50  java -version
+   51  pkg install gh
+   52  gh auth login
+   53  gh repo clone https://github.com/ayaoanjimuel/234094847_AyaoanJimuel
+   54  cd ../..
+   55  ls
+   56  cd Linux_practice
+   57  cd linux_practice
+   58  cd ..
+   59  cd linux_practice git checkout -b finalexam
+   60  cd linux_practice
+   61  git checkout -b finalexam
+   62  history > exam_log.txt
