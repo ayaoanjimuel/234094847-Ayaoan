@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: auto;
+    line-height: 1.7; 
+}
+
+header {
+    background-color: black;
+    color: whitesmoke;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: auto;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+h3 {
+    color: #333;
+}
